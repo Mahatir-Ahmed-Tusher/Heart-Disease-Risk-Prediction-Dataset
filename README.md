@@ -73,7 +73,7 @@ Since the dataset is synthetically generated, it does not contain any personally
 Use Python's `pandas` library to load the dataset:
 ```python
 import pandas as pd
-df = pd.read_csv('heart_disease_risk_prediction_dataset.csv')
+df = pd.read_csv('heart_disease_risk_dataset_earlymed.csv')
 ```
 
 ## 2. Exploratory Data Analysis (EDA)
