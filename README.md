@@ -1,6 +1,4 @@
-# Synthetic Heart Disease Risk Prediction Dataset
-
-![GitHub](https://img.shields.io/github/license/yourusername/heart-disease-dataset) ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/heart-disease-dataset) ![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/heart-disease-dataset)
+# Heart Disease Risk Prediction Dataset
 
 ---
 
@@ -135,8 +133,10 @@ This dataset can be used for:
 3. Developing decision support systems for early detection of cardiovascular risks.
 4. Educational purposes, such as teaching predictive modeling in healthcare.
 
+To contribute in the kaggle: https://www.kaggle.com/datasets/mahatiratusher/heart-disease-risk-prediction-dataset/data
+
 ## Limitations
--**Synthetic Nature :** The dataset is synthetically generated and may not fully replicate real-world complexities.
+- **Synthetic Nature :** The dataset is synthetically generated and may not fully replicate real-world complexities.
 - **Simplified Output :** The output label is binary (0 or 1). In real-world scenarios, risk stratification might involve multiple levels (e.g., low, moderate, high).
 - **Missing Data :** No missing values are included in this dataset.
 
